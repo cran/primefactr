@@ -1,0 +1,17 @@
+183c62702947ad07f101da82d3163d01 *DESCRIPTION
+39db93d95940bce3074c90e4013c605f *NAMESPACE
+21f64aa8e656a17e9b8f355944b5967c *R/divfact.R
+dba0415d30b74ac3d9e194ba1b731bd2 *R/factorization.R
+09f30550d2398d49593e92a9b531c73f *R/primefactr.R
+00a0d9e8376708625c57801ffa62b1df *R/primes.R
+57b6038af546fcdc894ae355bfe2143b *R/utils.R
+0d945e598c38543921ab0eb205a31da9 *README.md
+796521254efead2beaa2684403508dad *man/AllPrimesUpTo.Rd
+d41f0fbb55d602a710a62e5af61d698e *man/ComputeDivFact.Rd
+5e150c063193a77d24585703c458a7f7 *man/IsPrime.Rd
+419147fd968dc342ddc4f95f86f6a1d6 *man/ReducePrime.Rd
+6670b63b0b125cc35dfd04dc130c6aa9 *man/primefactr-package.Rd
+7c6295a2813397de0ee855360d56714c *tests/testthat.R
+e46f748d472d2493672aa22658a0c7dc *tests/testthat/test.divfact.R
+1a2060cba9c74b6a5449d5a7967ec768 *tests/testthat/test.factorization.R
+6b865eb9a4136167ecea2a834e608094 *tests/testthat/test.primes.R
