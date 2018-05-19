@@ -10,7 +10,7 @@ ReducePrime(code, out.summary = FALSE, primes.div = NULL)
 \item{code}{A vector representing a number. See details.}
 
 \item{out.summary}{Is the result to be summarized? For example,
-(2, 3, 0, 0, 1) can be summarized as [2, 5; 3, 1]. Default is \code{FALSE}.}
+(2, 3, 0, 0, 1) can be summarized as (2, 5; 3, 1). Default is \code{FALSE}.}
 
 \item{primes.div}{The vector of all prime numbers
 up to \code{sqrt(length(code))}. Default get them for you.}
@@ -42,4 +42,3 @@ ReducePrime(c(rep(0, 99), 1), out.summary = TRUE)
 primes.div <- AllPrimesUpTo(floor(sqrt(length(code100))))
 ReducePrime(c(rep(0, 99), 1), primes.div = primes.div)
 }
-

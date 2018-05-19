@@ -20,4 +20,3 @@ AllPrimesUpTo(10)
 AllPrimesUpTo(100)
 AllPrimesUpTo(1e6)
 }
-

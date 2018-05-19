@@ -40,4 +40,3 @@ ComputeDivFact(100, out.log = TRUE)
 \seealso{
 choose
 }
-

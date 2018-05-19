@@ -13,11 +13,11 @@ IsPrime(n)
 A boolean.
 }
 \description{
-Is n a prime number?
+Is n a prime number? You can see what is a
+prime number \href{https://en.wikipedia.org/wiki/Prime_number}{there}.
 }
 \examples{
 IsPrime(1)         # FALSE
 IsPrime(5)         # TRUE
 IsPrime(59999999)  # TRUE
 }
-
